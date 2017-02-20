@@ -26,23 +26,43 @@ gdt.inc:
 
 # Bibliografía
 http://wiki.osdev.org/
+
 http://www.osdever.net/
+
 http://en.wikipedia.org/wiki/Master_boot_record
+
 http://www.codeproject.com/Articles/45788/The-Real-Protected-Long-mode-assembly-tutorial-for
+
 http://ftp.gnu.org/old-gnu/Manuals/gas-2.9.1/html_node/as_203.html
+
 http://geezer.osdevbrasil.net/os/
+
 http://viralpatel.net/taj/tutorial/booting.php
+
 http://mikeos.sourceforge.net/
+
 https://thiscouldbebetter.wordpress.com/2011/03/17/entering-protected-mode-from-assembly/
+
 http://averstak.tripod.com/fatdox/partition.htm
+
 http://davidjwalling.com/pro_os_008.html
+
 http://www.monstersoft.com/tutorial1/PM_intro.html
+
 http://thestarman.pcministry.com/asm/mbr/GRUB.htm
+
 http://www.brokenthorn.com/Resources/OSDev5.html
+
 http://members.tripod.com/protected_mode/alexfru/pmtuts.html
+
 http://www.shikadi.net/moddingwiki/B800_Text
+
 http://faydoc.tripod.com/cpu/div.htm
+
 http://es.wikipedia.org/wiki/Int_13h#INT_13h_AH.3D02h_-_Leer_sectores
+
 http://inglorion.net/documents/tutorials/x86ostut/simple_kernel/
+
 http://julu.sg1005.myweb.hinet.net/Share/20110906-Writing%20Boot%20Loader%20with%20GAS%20Assembly.pdf
+
 
